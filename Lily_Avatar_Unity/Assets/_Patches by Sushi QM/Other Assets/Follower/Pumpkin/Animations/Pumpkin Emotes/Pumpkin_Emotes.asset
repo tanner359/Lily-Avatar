@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Pumpkin_Emotes
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Happy
+    icon: {fileID: 2800000, guid: b148b9b1c9a56a7409eb41a64658077d, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Laugh
+    icon: {fileID: 2800000, guid: f67325ba895dc264eb7f0fd6e92dbc11, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Disappointed
+    icon: {fileID: 2800000, guid: 885eaa1e1a0eb5c4fbdd6361023c3862, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Angry
+    icon: {fileID: 2800000, guid: 952f3801e5295cf49a0c41af75e0c16f, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sad
+    icon: {fileID: 2800000, guid: 66c9216a9502f8446b970d57904db3dc, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Confused
+    icon: {fileID: 2800000, guid: 64792df698c0dd24fb59ad6c5319f878, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shy
+    icon: {fileID: 2800000, guid: b148b9b1c9a56a7409eb41a64658077d, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Wow
+    icon: {fileID: 2800000, guid: 7e9a5a9855fd6eb49af73118f6eb3112, type: 3}
+    type: 102
+    parameter:
+      name: Pumpkin_Emotes
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

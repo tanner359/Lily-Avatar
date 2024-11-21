@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Customization
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: db27b9e4b23229e4ebf98d230fd42781, type: 2}
+  controls:
+  - name: <color=yellow>Hair
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: deb78ab38960e1348bce160357c279df, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Clothes
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4c10ff20a8407d04aa2416ab4ee649ca, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Eyes
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fe09b973277e67341a6d79321c72af20, type: 2}
+    subParameters: []
+    labels: []
+  - name: Lighting
+    icon: {fileID: 2800000, guid: 3dcce9a03ca3b744a94daa7b3dc57123, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fe09b973277e67341a6d79321c72af20, type: 2}
+    subParameters:
+    - name: Avatar Lighting
+    labels: []
+  - name: <color=orange>Transparent Color
+    icon: {fileID: 2800000, guid: 06068189b0fca994583e445021331e9c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fe09b973277e67341a6d79321c72af20, type: 2}
+    subParameters:
+    - name: Transparent Color
+    labels: []
+  - name: <color=orange>Transparent Hue
+    icon: {fileID: 2800000, guid: 06068189b0fca994583e445021331e9c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fe09b973277e67341a6d79321c72af20, type: 2}
+    subParameters:
+    - name: Transparent Hue
+    labels: []
+  - name: Skin
+    icon: {fileID: 2800000, guid: 3dcce9a03ca3b744a94daa7b3dc57123, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: fe09b973277e67341a6d79321c72af20, type: 2}
+    subParameters:
+    - name: Body - Skin
+    labels: []

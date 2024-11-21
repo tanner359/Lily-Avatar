@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: T Hair
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 3140e93a05db0b34d835a832e88eacca, type: 2}
+  controls:
+  - name: <color=yellow>Bangs
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: ed222a38f3399aa4781454819db8f5f9, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Back
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 179e0c86ab945e9459712dbabb8a3d9d, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Ears
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 7f1836aba9dc5b545900bd80570e7f38, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Tails
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 6488ccddccce49841a6d31ec279bb422, type: 2}
+    subParameters: []
+    labels: []
+  - name: Basket to Hand
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Tail Basket
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Front Strands Short
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Hair - Strand Swap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

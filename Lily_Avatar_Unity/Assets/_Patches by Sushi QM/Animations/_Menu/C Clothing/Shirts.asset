@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Shirts
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: db27b9e4b23229e4ebf98d230fd42781, type: 2}
+  controls:
+  - name: <color=orange>Shirt
+    icon: {fileID: 2800000, guid: 06068189b0fca994583e445021331e9c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Shirt Color
+    labels: []
+  - name: <color=orange>Shirt Hue
+    icon: {fileID: 2800000, guid: 06068189b0fca994583e445021331e9c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Shirt Hue
+    labels: []
+  - name: <color=green>Jacket
+    icon: {fileID: 2800000, guid: 06068189b0fca994583e445021331e9c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Jackets Color
+    labels: []
+  - name: <color=green>Jacket Hue
+    icon: {fileID: 2800000, guid: 06068189b0fca994583e445021331e9c, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Jackets Hue
+    labels: []
+  - name: <color=green>Jacket Design
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Jackets Design
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Shirt Hue
+    labels: []

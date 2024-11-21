@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VRCFT Body
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 3140e93a05db0b34d835a832e88eacca, type: 2}
+  controls:
+  - name: R Eyelash
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Eyelash R Black
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: L  Eyelash
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Eyelash L Black
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: 'Sclera '
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Sclera Black
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Skin
+    icon: {fileID: 2800000, guid: 3dcce9a03ca3b744a94daa7b3dc57123, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Body - Skin
+    labels: []

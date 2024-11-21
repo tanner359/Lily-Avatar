@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: _Menu 1
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 8a359a26bae3f5646b2f98b52a202c4d, type: 2}
+  controls:
+  - name: <color=yellow>Clothing
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 822ec6623e8345947bd37d0973b521d7, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Color
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5be8b3886d513f544bb371b142298ba6, type: 2}
+    subParameters: []
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: a45e8baf58fb0fe408ab67a9df527c76, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 822ec6623e8345947bd37d0973b521d7, type: 2}
+    subParameters: []
+    labels: []
+  - name: '@SUSHI_QM'
+    icon: {fileID: 2800000, guid: df028b4d0f8612248b96b1251343a580, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 822ec6623e8345947bd37d0973b521d7, type: 2}
+    subParameters: []
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: a45e8baf58fb0fe408ab67a9df527c76, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 822ec6623e8345947bd37d0973b521d7, type: 2}
+    subParameters: []
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: a45e8baf58fb0fe408ab67a9df527c76, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

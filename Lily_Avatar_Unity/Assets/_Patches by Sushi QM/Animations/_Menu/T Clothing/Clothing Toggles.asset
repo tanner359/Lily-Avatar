@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Clothing Toggles
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: db27b9e4b23229e4ebf98d230fd42781, type: 2}
+  controls:
+  - name: <color=yellow>Bra
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 68b6604301d24ba43a2e8a6932bd46a0, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Underwear
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 79c1e9b342cb0594d942104023e4a721, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Tops
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0515354b76ea4494daa2928ee7a667bd, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Bottoms
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c0e28266f19d4d3428a66e02ef3a8a7e, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Accessories
+    icon: {fileID: 2800000, guid: 6b161bfbefc524f4696136081125a76e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 467ce5e135e232a429824c4773fb4178, type: 2}
+    subParameters: []
+    labels: []
+  - name: Sleeves
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Clothes - Sleeves
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 79c1e9b342cb0594d942104023e4a721, type: 2}
+    subParameters: []
+    labels: []
+  - name: Face Piercings
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Face Piercings
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 79c1e9b342cb0594d942104023e4a721, type: 2}
+    subParameters: []
+    labels: []
+  - name: Horns
+    icon: {fileID: 2800000, guid: 5e12fcf6538a7714e95606c73e792612, type: 3}
+    type: 102
+    parameter:
+      name: Demon
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 79c1e9b342cb0594d942104023e4a721, type: 2}
+    subParameters: []
+    labels: []

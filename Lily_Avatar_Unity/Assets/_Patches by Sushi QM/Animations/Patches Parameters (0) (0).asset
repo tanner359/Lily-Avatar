@@ -1,0 +1,611 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Patches Parameters (0) (0)
+  m_EditorClassIdentifier: 
+  isEmpty: 0
+  parameters:
+  - name: Hair_Part_One_Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Hair_Part_Two_Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.15
+    networkSynced: 0
+  - name: Hair_Part_Three_Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Hair_Part_One_Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair_Part_Two_Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair_Part_Three_Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair_Part_One_Glow_Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Hair_Part_Two_Glow_Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.87
+    networkSynced: 0
+  - name: Hair_Part_Three_Glow_Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Hair_Part_One_Glow_Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair_Part_Two_Glow_Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair_Part_Three_Glow_Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair_Part_One_Glow_Brightness
+    valueType: 1
+    saved: 1
+    defaultValue: 0.2
+    networkSynced: 0
+  - name: Hair_Part_Two_Glow_Brightness
+    valueType: 1
+    saved: 1
+    defaultValue: 1
+    networkSynced: 0
+  - name: Hair_Part_Three_Glow_Brightness
+    valueType: 1
+    saved: 1
+    defaultValue: 0.02
+    networkSynced: 0
+  - name: SleevesSocks Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.8
+    networkSynced: 0
+  - name: SleevesSocks Stripe
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Underwear Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.8
+    networkSynced: 0
+  - name: Underwear Stripe Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: SleevesSocks Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: SleevesSocks Stripes Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Underwear Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Underwear Stripes Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Clothes Glow
+    valueType: 1
+    saved: 1
+    defaultValue: 1
+    networkSynced: 0
+  - name: Sclera Black
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Eyelash R Black
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+    networkSynced: 0
+  - name: Eyelash L Black
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Bra
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Panties
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Sleeves
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Boots
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Socks
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Necklace
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Choker
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Rings
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Bottoms
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Hat
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Shirt
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Glasses
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Shirt Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Shirt Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair - Back
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Hair - Bangs
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Body - Skin
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Left Eye - Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Left Eye - Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Right Eye - Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Right Eye - Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hat Base Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Hat Base Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Skirt Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Skirt Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Hair - Ears
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Hair - Tails
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Cowspots Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Cowspots Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Straps Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Straps Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Boots Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.75
+    networkSynced: 0
+  - name: Boots Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Clothes - Garter
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Jackets Design
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Jackets Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.85
+    networkSynced: 0
+  - name: Jackets Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Clothes - Harness
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Strapon
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Strap on PP
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Tail Basket
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Bag
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Transparent Color
+    valueType: 1
+    saved: 1
+    defaultValue: 0.7
+    networkSynced: 0
+  - name: Transparent Hue
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+    networkSynced: 0
+  - name: Face Piercings
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Avatar Lighting
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Demon
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Hair - Strand Swap
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothing - Belly Button Piercing
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Pumpkin_Toggle
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+    networkSynced: 0
+  - name: Body - Fishnet
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: Clothes - Jackets
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_Indexer 1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 0
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 3
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 5
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 6
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 7
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 8
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 9
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 10
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_BoolSyncer 11
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 0
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 1
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 2
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 3
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 4
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 5
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 6
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 7
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 8
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 9
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 10
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 11
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 12
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 13
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 14
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 15
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 16
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 17
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 18
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 19
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 20
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 21
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 22
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 23
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 24
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 25
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MemOpt_IntNFloatSyncer 26
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
